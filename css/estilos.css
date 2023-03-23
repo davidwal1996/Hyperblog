@@ -10,7 +10,7 @@ body{
 
 #cabecera{
     background: #33a url(imagenes/git.jpg);
-    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
