@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f4bb: :tw-1f4bb:
+# Hyperblog 💙❤️
 Un blog increible  para el[ curso de Git y GitHub](https://platzi.com/clases/old/git-github-appsco/ "curso de Git y Github") de Platzi
 
 >El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mis ingresos y lanzarme al maching learning.
