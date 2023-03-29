@@ -7,5 +7,6 @@ Un blog increible  para el[ curso de Git y GitHub](https://platzi.com/clases/old
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * Trucos muy locos del profesor
+* Creado por David Guerrero
 
 Recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
