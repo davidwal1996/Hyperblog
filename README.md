@@ -8,5 +8,5 @@ Un blog increible  para el[ curso de Git y GitHub](https://platzi.com/clases/old
 * El flujo de trabajo en Github
 * Trucos muy locos del profesor
 * Creado por David Guerrero
-
+* Incluye ejemplos en Linux, Windows y Mac
 Recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
